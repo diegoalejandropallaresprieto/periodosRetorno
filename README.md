@@ -1,6 +1,7 @@
 # Análisis de Sensibilidad Algorítmica y Periodos de Retorno - Río Bravo (1950-2025)
 
 **Autor:** Diego Pallares | Braulio Silva
+
 **Módulo:** Periodos de retorno y sensibilidad por modelo (Evaluación de Estimadores)
 
 Este módulo ejecuta el análisis final de frecuencias hidrológicas de los seis tributarios del Río Bravo. A diferencia de las evaluaciones estándar, este análisis no solo compara diferentes familias de distribuciones probabilísticas, sino que cuantifica la **incertidumbre algorítmica** introducida por los métodos de estimación de parámetros.
